@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\C# Prototype\WPF\fasetto-word-7c1698c39c78349287afd84da714bf1acc42633d\Source\Fasetto.Word\obj\Debug\
+D:\Documents\GitHub\test clone\WPF\Fasetto.Word\obj\Debug\
 Fasetto.Word
 none
 false
 DEBUG;TRACE
-D:\C# Prototype\WPF\fasetto-word-7c1698c39c78349287afd84da714bf1acc42633d\Source\Fasetto.Word\App.xaml
-7550430264
+D:\Documents\GitHub\test clone\WPF\Fasetto.Word\App.xaml
+11-496011414
 
-26-461248685
-151717691720
-Pages\LoginPage.xaml;MainWindow.xaml;Styles\Windows.xaml;Styles\Texts.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;
+32-811777564
+151765565079
+Controls\ChatListControl.xaml;Controls\Chat\ChatListItemControl.xaml;Controls\SideMenuControl.xaml;Pages\ChatPage.xaml;Pages\LoginPage.xaml;MainWindow.xaml;Styles\Windows.xaml;Styles\Texts.xaml;Styles\Buttons.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;
 
 False
 
