@@ -60,3 +60,38 @@ D:\Documents\GitHub\test clone\WPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatList
 D:\Documents\GitHub\test clone\WPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListItemControl.baml
 D:\Documents\GitHub\test clone\WPF\Fasetto.Word\obj\Debug\Controls\ChatListControl.g.cs
 D:\Documents\GitHub\test clone\WPF\Fasetto.Word\obj\Debug\Controls\ChatListControl.baml
+D:\Git\WPF\Fasetto.Word\bin\Debug\Fasetto.Word.exe.config
+D:\Git\WPF\Fasetto.Word\bin\Debug\Fasetto.Word.exe
+D:\Git\WPF\Fasetto.Word\bin\Debug\Fasetto.Word.pdb
+D:\Git\WPF\Fasetto.Word\bin\Debug\Microsoft.Windows.Shell.dll
+D:\Git\WPF\Fasetto.Word\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.csprojAssemblyReference.cache
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\ChatListControl.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListItemControl.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\SideMenuControl.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\Pages\ChatPage.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\Pages\LoginPage.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\MainWindow.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\App.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word_MarkupCompile.cache
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word_MarkupCompile.lref
+D:\Git\WPF\Fasetto.Word\obj\Debug\App.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\ChatListControl.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\Chat\ChatListItemControl.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Controls\SideMenuControl.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Pages\ChatPage.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Pages\LoginPage.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\MainWindow.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Styles\Windows.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Styles\Texts.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Styles\Buttons.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Styles\Colors.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Styles\Fonts.baml
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.g.resources
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.Properties.Resources.resources
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.csproj.GenerateResource.cache
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.csproj.CoreCompileInputs.cache
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.csproj.CopyComplete
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.exe
+D:\Git\WPF\Fasetto.Word\obj\Debug\Fasetto.Word.pdb

@@ -25,5 +25,15 @@
         /// for example FF00FF for Red and Blue mixed
         /// </summary>
         public string ProfilePictureRGB { get; set; }
+
+        /// <summary>
+        /// True if there are unread messages in this chat
+        /// </summary>
+        public bool NewContentAvailable { get; set; }
+
+        /// <summary>
+        /// True if this item is currently selected
+        /// </summary>
+        public bool IsSelected { get; set; }
     }
 }
